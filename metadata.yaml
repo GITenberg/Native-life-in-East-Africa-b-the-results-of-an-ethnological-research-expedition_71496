@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '44331'
     url: http://www.gutenberg.org/2009/agents/44331
     wikipedia: https://en.wikipedia.org/wiki/Alice_Werner
+covers:
+- cover_type: archival
+  image_path: 71496-h/images/cover.jpg
 creator:
   author:
     agent_name: Weule, Karl
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Karl_Weule
     - https://de.wikipedia.org/wiki/Karl_Weule
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71496#Native-life-in-East-Africa-b-the-results-of-an-ethnological-research-expedition
 gutenberg_issued: '2023-08-27'
 identifiers:
   gutenberg: '71496'
